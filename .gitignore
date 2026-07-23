@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+*.iml
+
+# Allure reports
+allure-results/
+allure-report/
+allure-reports/
+
+# IDE files
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
